@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "message": "hi"
+    },
+    {
+      "id": 2,
+      "message": "hi"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "message": "hi"
+    },
+    {
+      "id": 2,
+      "message": "hi"
+    }
+  ]
+}

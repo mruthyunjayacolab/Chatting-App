@@ -1,0 +1,136 @@
+.h1 {
+    color: blue;
+}
+
+.flex-container {
+    display: flex;
+    /* Additional flex-related properties */
+}
+
+.s2 {
+    margin-top: 40px;
+    color: aqua
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.conatin {
+    display: flex;
+    justify-content: center;
+}
+
+.message-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    padding: 10px;
+}
+
+.message {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.user1 {
+    background-color: #3cb371;
+    align-self: flex-start;
+}
+
+.user2 {
+    background-color: #ffa500;
+    align-self: flex-end;
+}
+
+.message-user {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+form {
+    margin-top: 10px;
+}
+
+form input[type="text"] {
+    padding: 6px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+form button[type="submit"] {
+    padding: 6px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.conatin {
+    display: flex;
+    justify-content: center;
+}
+
+.message-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    padding: 10px;
+}
+
+.message {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    color: #fff;
+    max-width: 70%;
+}
+
+.user1 {
+    background-color: #3cb371;
+    align-self: flex-start;
+    margin-left: 0px;
+}
+
+.user2 {
+    background-color: #ffa500;
+    align-self: flex-end;
+    margin-left: 100px;
+}
+
+.message-user {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+form {
+    margin-top: 10px;
+}
+
+form input[type="text"] {
+    padding: 6px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+form button[type="submit"] {
+    padding: 6px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+}
